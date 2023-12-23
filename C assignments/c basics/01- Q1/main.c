@@ -1,6 +1,9 @@
 #include "stdio.h"
 
-void main ()
+int main ()
 {
-	printf("C Programming");
+   char a = '\012';
+   printf("%d",a);
+
+   return 0;
 }
