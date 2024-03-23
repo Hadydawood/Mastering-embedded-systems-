@@ -1,0 +1,3 @@
+D:/Hunter X Hunter/learn in depth/code/Mastering-embedded-systems-/C assignments/arrays & strings/06-Q6/cmake-build-debug/CMakeFiles/06_Q6.dir
+D:/Hunter X Hunter/learn in depth/code/Mastering-embedded-systems-/C assignments/arrays & strings/06-Q6/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Hunter X Hunter/learn in depth/code/Mastering-embedded-systems-/C assignments/arrays & strings/06-Q6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
