@@ -1,0 +1,3 @@
+D:/Hunter X Hunter/learn in depth/code/Mastering-embedded-systems-/C assignments/functions/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir
+D:/Hunter X Hunter/learn in depth/code/Mastering-embedded-systems-/C assignments/functions/untitled1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Hunter X Hunter/learn in depth/code/Mastering-embedded-systems-/C assignments/functions/untitled1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
