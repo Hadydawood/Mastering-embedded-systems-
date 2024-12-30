@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42b98145-03d0-462d-a752-68eb7240973f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../functions/01- Q1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../functions/01- Q1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/.cmake/api/v1/reply/cache-v2-38187412671f76514c20.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-56edc755c1e4c868f24f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-419d48d890d8736a52d6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/.cmake/api/v1/reply/index-2024-05-28T06-46-19-0902.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/.cmake/api/v1/reply/target-01__Q1-Debug-ac1477c26a0e6636ff4f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-feae2582097bb8a06420.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/01__Q1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/01__Q1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/CMakeFiles/01__Q1.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/CMakeFiles/01__Q1.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/CMakeFiles/3.25.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/CMakeFiles/3.25.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/CMakeFiles/3.25.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../functions/01- Q1/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../functions/01- Q1/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../functions/01- Q1/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../functions/untitled1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../functions/untitled1/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="2.3" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2qw9JRZcvnPEdyIc1qFwHxsYPAW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42b98145-03d0-462d-a752-68eb7240973f" name="Changes" comment="" />
+      <created>1735562699590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735562699590</updated>
+      <workItem from="1735562703750" duration="97000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

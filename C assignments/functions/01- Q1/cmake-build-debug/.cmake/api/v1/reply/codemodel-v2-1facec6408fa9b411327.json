@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "01__Q1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-01__Q1-Debug-ac1477c26a0e6636ff4f.json",
+					"jsonFile" : "target-01__Q1-Debug-6639cac7bb55c91bec5c.json",
 					"name" : "01__Q1",
 					"projectIndex" : 0
 				}
@@ -55,6 +55,6 @@
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 4
+		"minor" : 7
 	}
 }
