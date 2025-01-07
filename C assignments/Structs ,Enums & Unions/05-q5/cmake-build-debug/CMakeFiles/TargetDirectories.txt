@@ -1,0 +1,3 @@
+D:/Hunter X Hunter/learn in depth/code/Mastering-embedded-systems-/C assignments/Structs ,Enums & Unions/05-q5/cmake-build-debug/CMakeFiles/05_q5.dir
+D:/Hunter X Hunter/learn in depth/code/Mastering-embedded-systems-/C assignments/Structs ,Enums & Unions/05-q5/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Hunter X Hunter/learn in depth/code/Mastering-embedded-systems-/C assignments/Structs ,Enums & Unions/05-q5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
