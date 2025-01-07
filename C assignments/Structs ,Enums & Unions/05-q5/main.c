@@ -1,5 +1,5 @@
 #include<stdio.h>
-//C Program to find area of a circle, passing arguments to macros
+
 #define PI 3.1415
 #define area(r) (PI*(r)*(r))
 int main()
